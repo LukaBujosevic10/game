@@ -1,0 +1,22 @@
+*{
+    margin: 0 auto;
+}
+#game{
+    width: 35rem;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: bisque;
+}
+img{
+  position: relative;
+  left: 25%;
+  height: 60%;
+  top: 20px;
+}
+#dugmici{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 60px;
+  padding: 10px;
+}
